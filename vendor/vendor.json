@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "lb3C9DRPqcV2CF/q/RJLsiXmknI=",
+			"path": "github.com/olivere/elastic",
+			"revision": "8a3f2cdf773521f77a2b9517d131c6cf28be6ca1",
+			"revisionTime": "2019-03-30T15:35:16Z"
+		},
+		{
+			"checksumSHA1": "ef7fqXCjAavRO2aCl7FOKEqoqrg=",
+			"path": "github.com/urfave/cli",
+			"revision": "693af58b4d51b8fcc7f9d89576da170765980581",
+			"revisionTime": "2019-02-03T18:40:40Z"
+		}
+	],
+	"rootPath": "elastic"
+}
